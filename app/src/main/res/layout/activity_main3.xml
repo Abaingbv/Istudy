@@ -5,5 +5,169 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity3">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="170dp"
+        android:layout_height="558dp"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">>
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="142dp"
+            android:layout_height="54dp"
+            android:text="L'Université Paris-Sud 11 3,250 USD Рейтинг: 139"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="157dp"
+            android:layout_height="34dp"
+            android:layout_marginBottom="40dp"
+            android:text="https://www.universite-paris-saclay.fr/"
+            android:textColor="#2196F3" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="140dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="40dp"
+            android:text="Université de Strasbourg 3,250 USD Рейтинг: 157"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:text="@string/r"
+            android:textColor="#2196F3"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="131dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/res1"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="127dp"
+            android:layout_height="33dp"
+            android:layout_marginBottom="40dp"
+            android:text="https://www.univ-amu.fr/en"
+            android:textColor="#2196F3" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="166dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="30dp"
+            android:text="INSA - Lyon 704 USD Рейтинг: 462"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="https://www.insa-lyon.fr/"
+            android:textColor="#2196F3" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="41dp"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:srcCompat="@drawable/a03932700da4c58926a2769085671aa5_1"
+        android:contentDescription="TODO" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="59dp"
+        android:layout_marginEnd="40dp"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:srcCompat="@drawable/absolute_palais_universitaire_01_1" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="63dp"
+        android:layout_marginEnd="38dp"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView14"
+        app:srcCompat="@drawable/dircom_presentation_universite_1" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="38dp"
+        app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView15"
+        app:srcCompat="@drawable/_39ce49a_1" />
+
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="202dp"
+        android:layout_marginEnd="186dp"
+        android:layout_marginBottom="38dp"
+        android:text="@string/page"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="285dp"
+        android:layout_height="70dp"
+        android:layout_marginBottom="550dp"
+        android:gravity="center"
+        android:text="Университеты во Франции"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="23dp"
+        app:layout_constraintEnd_toStartOf="@+id/textView10"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_action_name" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

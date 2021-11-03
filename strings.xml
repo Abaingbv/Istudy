@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">iStudy</string>
+    <string name="title">Выберите штат в котором хотели бы учиться</string>
+    <string name="continent">Америка</string>
+    <string name="country1">Вашингтон</string>
+    <string name="country6">Невада</string>
+    <string name="country5">Иллинойс</string>
+    <string name="country2">Орегон</string>
+    <string name="country3">Мичиган</string>
+    <string name="country4">Аризона</string>
+    <string name="university1">Университеты в Вашингтоне</string>
+    <string name="university2">University of Washington 53,321USD Рейтинг:31</string>
+    <string name="resource1">https://www.washington.edu/</string>
+    <string name="university_2">Georgetown University 45,000 USD Рейтинг:252</string>
+    <string name="resource_2">https://scs.georgetown.edu/</string>
+    <string name="university_3">American University 39,000 USD Рейтинг:449</string>
+    <string name="resource_3">https://www.american.edu/</string>
+    <string name="university_4">Howard University 23,000 USD Рейтинг:693</string>
+    <string name="resource_4">https://howard.edu/</string>
+    <string name="page">1 из 5</string>
+    <string name="page_2">1 из 9</string>
+    <string name="university_5">University of Oregon 9,000 USD Рейтинг: 428</string>
+    <string name="resource_5">https://www.oregon.edu/</string>
+    <string name="university_6">Oregon State University 11,000 USD Рейтинг:284</string>
+    <string name="resource_6">https://oregonstate.edu/</string>
+    <string name="university_7">Portland State University 20,000 USD Рейтинг:1024</string>
+    <string name="resource_7">https://www.pdx.edu/</string>
+    <string name="university_8">Western Oregon University 17,500 USD Рейтинг:1566</string>
+    <string name="resource_8">https://wou.edu/</string>
+
+</resources>
