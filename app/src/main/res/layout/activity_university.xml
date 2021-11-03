@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="590dp"
-        android:text="@string/university1"
+        android:text="@string/title_2"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -77,9 +77,9 @@
 
         <TextView
             android:id="@+id/textView3"
-            android:layout_width="148dp"
+            android:layout_width="171dp"
             android:layout_height="34dp"
-            android:text="@string/university2"
+            android:text="@string/university_1"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -89,7 +89,7 @@
             android:layout_height="68dp"
             android:layout_marginTop="0dp"
             android:layout_marginBottom="10dp"
-            android:text="@string/resource1"
+            android:text="@string/resource_1"
             android:textColor="@color/blue1"
             android:textSize="13sp" />
 
@@ -146,7 +146,7 @@
         android:id="@+id/textView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/page"
+        android:text="@string/page_1"
         android:textColor="@color/black"
         android:layout_marginTop="610dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -164,7 +164,21 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_action_name2"
+        app:srcCompat="@drawable/ic_action_name"
         android:contentDescription="@null"/>
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="13dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginBottom="48dp"
+        android:contentDescription="@null"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.23"
+        app:layout_constraintStart_toEndOf="@+id/textView7"
+        app:srcCompat="@drawable/tap" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
