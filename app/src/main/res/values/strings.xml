@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Istudy</string>
+    <string name="name">Выберите страну в которой хотели бы учиться</string>
+    <string name="europe">Европа</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="res">https://www.ox.ac.uk/</string>
+    <string name="res2">The University of Manchester 26,247 USD Рейтинг: 27</string>
+    <string name="res3">https://www.manchester.ac.uk/</string>
+    <string name="trs">Университеты в Британии</string>
+    <string name="res4">The University of Edinburgh 20,800 USD Рейтинг: 26</string>
+    <string name="res5">https://www.kcl.ac.uk/</string>
+    <string name="res6">King\'s College London 20,000 USD Рейтинг: 28</string>
+    <string name="res7">https://www.ed.ac.uk/</string>
+    <string name="todo1">TODO</string>
+    <string name="rts11">University of Oxford 41,945 USD Рейтинг: 6</string>
+    <string name="todo2">TODO</string>
+    <string name="num"><![CDATA[1>6]]></string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="page"><![CDATA[2>6]]></string>
+    <string name="res1">Aix-Marseille University 217 USD Рейтинг: 231</string>
+    <string name="r">https://www.unistra.fr/</string>
 </resources>
