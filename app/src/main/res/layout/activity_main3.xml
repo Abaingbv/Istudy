@@ -15,13 +15,15 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">>
+        app:layout_constraintTop_toTopOf="parent"><![CDATA[>
+
+        ]]>
 
         <TextView
             android:id="@+id/textView12"
             android:layout_width="142dp"
             android:layout_height="54dp"
-            android:text="L'Université Paris-Sud 11 3,250 USD Рейтинг: 139"
+            android:text="@string/parisud"
             android:textColor="@color/black" />
 
         <TextView
@@ -29,7 +31,7 @@
             android:layout_width="157dp"
             android:layout_height="34dp"
             android:layout_marginBottom="40dp"
-            android:text="https://www.universite-paris-saclay.fr/"
+            android:text="@string/parissac"
             android:textColor="#2196F3" />
 
         <TextView
@@ -170,4 +172,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_action_name" />
 
+
+    
 </androidx.constraintlayout.widget.ConstraintLayout>
