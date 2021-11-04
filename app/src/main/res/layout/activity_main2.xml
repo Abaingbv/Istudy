@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView10"
         app:srcCompat="@drawable/_467394938eb2fad79d4c4e22450873b_1"
-        android:contentDescription="@string/todo1" />
+        android:contentDescription="@string/university_1" />
 
     <ImageView
         android:id="@+id/imageView9"
@@ -30,7 +30,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView10"
         app:srcCompat="@drawable/_537_photo_1"
-        android:contentDescription="@string/todo4" />
+        android:contentDescription="@string/university_2" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -57,7 +57,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView8"
         app:srcCompat="@drawable/university_of_manchester_1"
-        android:contentDescription="@string/todo2" />
+        android:contentDescription="@string/todo22" />
 
     <TextView
         android:id="@+id/textView10"
@@ -65,7 +65,7 @@
         android:layout_height="70dp"
         android:layout_marginBottom="550dp"
         android:gravity="center"
-        android:text="@string/trs"
+        android:text="@string/britain"
         android:textColor="@color/black"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"

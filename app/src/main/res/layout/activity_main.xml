@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:srcCompat="@drawable/component_16"
-        android:contentDescription="@string/todo3" />
+        android:contentDescription="@string/university_3" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
         app:srcCompat="@drawable/component_17"
-        android:contentDescription="@string/todo2" />
+        android:contentDescription="@string/university_4" />
 
     <ImageView
         android:id="@+id/imageView5"
@@ -57,7 +57,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView5"
         app:srcCompat="@drawable/component_22"
-        android:contentDescription="@string/todo1" />
+        android:contentDescription="@string/university_5" />
 
     <ImageView
         android:id="@+id/imageView7"
@@ -79,7 +79,7 @@
         android:layout_marginStart="80dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="81dp"
-        android:contentDescription="@string/todo4"
+        android:contentDescription="@string/university_7"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView11"
