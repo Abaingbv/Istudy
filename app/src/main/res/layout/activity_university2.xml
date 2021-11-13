@@ -65,20 +65,21 @@
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="190dp"
-        android:layout_height="457dp"
+        android:layout_width="192dp"
+        android:layout_height="514dp"
         android:layout_marginStart="40dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.777"
+        app:layout_constraintHorizontal_bias="0.821"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.566">
 
         <TextView
             android:id="@+id/textView3"
-            android:layout_width="match_parent"
-            android:layout_height="34dp"
+            android:layout_width="153dp"
+            android:layout_height="55dp"
             android:text="@string/nine"
             android:textColor="@color/black"
             android:textSize="14sp" />
@@ -86,7 +87,7 @@
         <TextView
             android:id="@+id/textView8"
             android:layout_width="180dp"
-            android:layout_height="67dp"
+            android:layout_height="65dp"
             android:layout_marginTop="0dp"
             android:layout_marginBottom="10dp"
             android:text="@string/ten"
@@ -104,7 +105,7 @@
 
         <TextView
             android:layout_width="180dp"
-            android:layout_height="83dp"
+            android:layout_height="55dp"
             android:text="@string/twelve"
             android:textColor="@color/blue1"
             android:textSize="13sp" />
@@ -116,30 +117,33 @@
             android:layout_marginTop="25dp"
             android:text="@string/thirteen"
             android:textColor="@color/black"
-            android:textSize="14sp"/>
+            android:textSize="14sp" />
 
         <TextView
             android:layout_width="180dp"
-            android:layout_height="74dp"
+            android:layout_height="47dp"
             android:text="@string/fourteen"
             android:textColor="@color/blue1"
             android:textSize="13sp" />
 
         <TextView
             android:id="@+id/textView6"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
             android:layout_marginTop="35dp"
             android:text="@string/fifteen"
             android:textColor="@color/black"
-            android:textSize="14sp"/>
+            android:textSize="14sp" />
 
         <TextView
             android:layout_width="180dp"
             android:layout_height="63dp"
             android:text="@string/sixteen"
             android:textColor="@color/blue1"
-            android:textSize="14sp"/>
+            android:textSize="14sp"
+            tools:layout_editor_absoluteX="187dp"
+            tools:layout_editor_absoluteY="580dp" />
+
     </LinearLayout>
 
     <TextView
@@ -179,6 +183,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.09"
         app:layout_constraintStart_toEndOf="@+id/textView7"
-        app:srcCompat="@drawable/tap" />
+        app:srcCompat="@drawable/next" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
