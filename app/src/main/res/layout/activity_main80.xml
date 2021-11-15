@@ -38,13 +38,13 @@
 
         <TextView
             android:id="@+id/textView11"
-            android:layout_width="124dp"
+            android:layout_width="147dp"
             android:layout_height="52dp"
-            android:layout_marginTop="12dp"
+            android:layout_marginTop="17dp"
             android:text="@string/theme2"
+            android:textColor="@color/black"
             tools:layout_editor_absoluteX="188dp"
-            tools:layout_editor_absoluteY="290dp"
-            android:textColor="@color/black"/>
+            tools:layout_editor_absoluteY="290dp" />
 
         <TextView
             android:id="@+id/textView15"
@@ -58,12 +58,12 @@
 
         <TextView
             android:id="@+id/textView12"
-            android:layout_width="113dp"
-            android:layout_height="52dp"
+            android:layout_width="118dp"
+            android:layout_height="71dp"
             android:text="@string/theme3"
+            android:textColor="@color/black"
             tools:layout_editor_absoluteX="188dp"
-            tools:layout_editor_absoluteY="437dp"
-            android:textColor="@color/black"/>
+            tools:layout_editor_absoluteY="437dp" />
 
         <TextView
             android:id="@+id/textView16"
@@ -75,12 +75,12 @@
             app:layout_constraintTop_toBottomOf="@+id/textView12" />
 
         <TextView
-        android:id="@+id/textView13"
-        android:layout_width="189dp"
-        android:layout_height="45dp"
-        android:text="@string/theme4"
-        android:layout_marginTop="25dp"
-        android:textColor="@color/black"/>
+            android:id="@+id/textView13"
+            android:layout_width="174dp"
+            android:layout_height="52dp"
+            android:layout_marginTop="2dp"
+            android:text="@string/theme4"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView17"

@@ -60,35 +60,30 @@
     <string name="rs2">https://www.u-tokyo.ac.jp/en/</string>
     <string name="rs3">https://www.kyoto-u.ac.jp/en</string>
     <string name="rs4">https://www.waseda.jp/top/en/</string>
-    <string name="number1">Toyo University
-7,500 USD
-Рейтинг: 2104</string>
-    <string name="number2">The University of Tokyo
-4,712 USD
-Рейтинг: 24</string>
-    <string name="number3">Kyoto University
-	4,712 USD
-Рейтинг:25</string>
-    <string name="number4">Waseda University
-12,066 USD
-Рейтинг:343</string>
+    <string name="number1">Toyo University 7,500 USD Рейтинг: 2104 Грант: нет </string>
+    <string name="number2">The University of Tokyo 4,712 USD Рейтинг: 24 Грант: нет</string>
+    <string name="number3">Kyoto University 4,712 USD Рейтинг:25 Грант: есть</string>
+    <string name="number4">Waseda University 12,066 USD Рейтинг:343 Грант: есть</string>
     <string name="name3">Университеты в Японии</string>
     <string name="name4">Университеты в Китае</string>
-    <string name="theme1">Peking University
-3,785 USD
-Рейтинг: 55</string>
-    <string name="theme2">Tsinghua University
-4,368 USD
-Рейтинг: 49</string>
-    <string name="theme3">Fudan University
-3,348 USD
-Рейтинг:100</string>
-    <string name="theme4">Shanghai Jiao Tong University
-3,610 USD
-Рейтинг:79</string>
+    <string name="theme1">Peking University 3,785 USD Рейтинг: 55 Грант: есть</string>
+    <string name="theme2">Tsinghua University 4,368 USD Рейтинг: 49 Грант: есть</string>
+    <string name="theme3">Fudan University 3,348 USD Рейтинг:100 Грант: нет</string>
+    <string name="theme4">Shanghai Tong University 3,610 USD Рейтинг:79 Грант: есть</string>
     <string name="rs5">https://english.pku.edu.cn/</string>
     <string name="rs6">https://www.tsinghua.edu.cn/en</string>
     <string name="rs7">https://www.fudan.edu.cn/en/</string>
     <string name="rs8">https://en.sjtu.edu.cn/</string>
     <string name="name2">Выберите страну в которой хотели бы учиться</string>
+    <string name="name6">Подготовка к поступлению</string>
+    <string name="rese1">Определяемся со страной</string>
+    <string name="rese2">Определяемся с программой</string>
+    <string name="rese3">Определяемся с финансированием</string>
+    <string name="rese4">Сдаем международные тесты</string>
+    <string name="rese5">Оформляем и отправляем документы</string>
+    <string name="rese6">Ожидаем ответ от вуза</string>
+    <string name="rese7">Выбираем лучший университет</string>
+    <string name="rese8">Готовимся к отъезду</string>
+    <string name="Namee">Выберите страну в которой хотели бы учиться</string>
+
 </resources>
