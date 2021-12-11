@@ -6,6 +6,6 @@ import android.os.Bundle
 class university : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_university)
+        setContentView(R.layout.`activity_washington.xml`)
     }
 }
