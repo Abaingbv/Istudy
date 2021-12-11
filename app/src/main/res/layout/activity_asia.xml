@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/image_7"
-    tools:context=".MainActivity3">
+    tools:context=".MainActivityAsia">
 
 
     <LinearLayout
@@ -92,7 +92,7 @@
         android:layout_height="57dp"
         android:layout_marginBottom="76dp"
         android:gravity="center"
-        android:text="@string/Namee"
+        android:text="@string/Name"
         android:textColor="@color/white"
         android:textSize="22sp"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"

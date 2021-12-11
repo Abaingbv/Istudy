@@ -3,9 +3,9 @@ package com.example.istudy
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity5 : AppCompatActivity() {
+class MainActivityPreparation : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.`activity_main80.xml`)
+        setContentView(R.layout.activity_preparation)
     }
 }
