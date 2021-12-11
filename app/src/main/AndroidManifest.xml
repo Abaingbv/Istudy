@@ -13,6 +13,12 @@
             android:name=".exams"
             android:exported="false" />
         <activity
+            android:name=".MainActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity3"
             android:exported="true" />
         <activity
