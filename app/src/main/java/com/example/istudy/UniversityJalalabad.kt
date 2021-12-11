@@ -6,6 +6,6 @@ import android.os.Bundle
 class UniversityJalalabad : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.universityinjalalabad`)
+        setContentView(R.layout.universityinjalalabad)
     }
 }
